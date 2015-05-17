@@ -1,3 +1,3 @@
-# # Notatki.md
-# Genetyka
+## Genetyka
 
+Notatki z genetyki.
