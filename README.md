@@ -4,6 +4,10 @@ Notatki z genetyki.
 
 Grzegorz Mendel http://pl.wikipedia.org/wiki/Gregor_Mendel
 
-<a
+Zadania: zrobić na 9 czerwca
 
-href="http://pl.wikipedia.org/wiki/Gregor_Mendel</a>
+
+
+
+
+
