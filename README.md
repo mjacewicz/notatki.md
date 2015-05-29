@@ -12,10 +12,13 @@ Notatki z genetyki.
 
 **Choroby genetyczne** (Opisz je)
 
-*Mukowiscydoza
-*Fenyloketonória
-*Albinizm
-*Zespól Downa
+*Mukowiscydoza.
+
+*Fenyloketonória.
+
+*Albinizm.
+
+*Zespól Downa.
 
 **Rasy psów**
 
