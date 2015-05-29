@@ -10,6 +10,8 @@ Notatki z genetyki.
 
 [KARIOTYP](http://pl.wikipedia.org/wiki/Kariotyp)
 
+**Rasy psów**
+
 ![Krzyżowanie genetyczne](http://pu.i.wp.pl/k,MzczMTM2OTIsNjU4NDkz,f,b.jpg)
 
 
