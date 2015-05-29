@@ -10,6 +10,13 @@ Notatki z genetyki.
 
 [KARIOTYP](http://pl.wikipedia.org/wiki/Kariotyp)
 
+**Choroby genetyczne** (Opisz je)
+
+*Mukowiscydoza
+*Fenyloketonória
+*Albinizm
+*Zespól Downa
+
 **Rasy psów**
 
 ![Krzyżowanie genetyczne](http://pu.i.wp.pl/k,MzczMTM2OTIsNjU4NDkz,f,b.jpg)
