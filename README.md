@@ -14,7 +14,7 @@ Notatki z genetyki.
 
 *Mukowiscydoza.
 
-*Fenyloketonória.
+*Fenyloketonuria.
 
 *Albinizm.
 
@@ -23,6 +23,8 @@ Notatki z genetyki.
 **Krzyżowanie genetyczne -rasy psów**
 
 ![Krzyżowanie genetyczne](http://pu.i.wp.pl/k,MzczMTM2OTIsNjU4NDkz,f,b.jpg)
+
+
 
 
 
