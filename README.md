@@ -10,6 +10,8 @@ Notatki z genetyki.
 
 [KARIOTYP](http://pl.wikipedia.org/wiki/Kariotyp)
 
+![Krzyżowanie genetyczne](http://pieski-rasy-oli.bloog.pl/)
+
 
 
 
