@@ -10,6 +10,8 @@ Notatki z genetyki.
 
 [KARIOTYP](http://pl.wikipedia.org/wiki/Kariotyp)
 
+[Model DNA](http://encyklopedia.pwn.pl/haslo/Watsona-Cricka-model-DNA;3994315.html)
+
 **Choroby genetyczne** (Opisz je)
 
 *Mukowiscydoza.
