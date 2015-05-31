@@ -2,8 +2,6 @@
 
 Notatki z genetyki.
 
-<meta charset="utf-8">
-
 >*"Genetyka jest tak prosta, jak niemiecka autostrada" prof. dr hab. B. Kosowska*
 
 [GRZEGORZ MENDEL](http://pl.wikipedia.org/wiki/Gregor_Mendel)
@@ -16,9 +14,9 @@ Notatki z genetyki.
 
 [Kod genetyczny](http://www.e-biotechnologia.pl/Artykuly/Kod-genetyczny/)
 
-[Biosynteza=transkrybcja+translacja](http://www.ceo.org.pl/sites/default/files/library-files/etapy_biosyntezy_bia_ek.pdf)
+[Biosynteza=transkrypcja+translacja](http://www.ceo.org.pl/sites/default/files/library-files/etapy_biosyntezy_bia_ek.pdf)
 
-Definicje potrzebne do zadań genetycznych: homozygota, heterozygota, genotyp, fenotyp, allel, symbole alleli,nosicielka, determinowanie, autosomy, chromosomy p
+Definicje potrzebne do zadań genetycznych: homozygota, heterozygota, genotyp, fenotyp, allel, symbole alleli,nosicielka, determinowanie, autosomy, heterosomy.
 
 **Choroby genetyczne** (Opisz je)
 
