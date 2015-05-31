@@ -12,7 +12,7 @@ Notatki z genetyki.
 
 [MODEL DNA](http://encyklopedia.pwn.pl/haslo/Watsona-Cricka-model-DNA;3994315.html)
 
-[KOD genetyczny](http://www.e-biotechnologia.pl/Artykuly/Kod-genetyczny/)
+[KOD GENETYCZNY](http://www.e-biotechnologia.pl/Artykuly/Kod-genetyczny/)
 
 [BIOSYNTEZA=transkrypcja+translacja](http://www.ceo.org.pl/sites/default/files/library-files/etapy_biosyntezy_bia_ek.pdf)
 
